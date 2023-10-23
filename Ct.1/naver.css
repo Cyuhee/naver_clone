@@ -7,15 +7,15 @@
     width: 1080px;
 }
 #header-search > h1 {
-    width: 230px;
-    hight: 90px;
+    width: 200px;
+    height: 50px;
     display: inline-block;
     background-image: url(./01\ NAVER\ Logo_Green.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-#header-serch > h1 span {
+#header-search > h1 span {
     display: none;
 }
 
